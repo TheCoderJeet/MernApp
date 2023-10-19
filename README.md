@@ -1,2 +1,2 @@
 # MernApp
-MernApp that has functionalities to SignUp, Login, Creates etc.
+This MernApp has functionalities to SignUp, Login, Create Posts and Like Post etc.
