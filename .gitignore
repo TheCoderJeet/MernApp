@@ -1,0 +1,22 @@
+# Inside the main .gitignore file
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Node.js specific
+node_modules/
+
+# Environment variables
+.env
+
+# Logs and error output
+logs/
+*.log
+
+# React specific
+client/build/
+client/dist/
+
+# Miscellaneous
+.DS_Store
